@@ -1,0 +1,218 @@
+.App {
+  text-align: center;
+  background-image: url(bg.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.er{
+  height: 700px;
+  background-image: url(bg2.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bt{
+  margin-top: 8%;
+}
+
+.crt{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 10% 15% 0 15%;
+  height: 1000px;
+}
+
+.hm{
+  height: 500px;
+}
+
+.wrapper {
+  width: 100%;
+  height: 100%;
+  transition: transform 0.5s;
+}
+div {
+  display: block;
+}
+.saying_block.Musk {
+  background-image: url(http://www.lan-chun-chih.com/images/man_musk.jpg);
+}
+.saying_block {
+  width: 100%;
+  height: 100%;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+article,
+aside,
+footer,
+header,
+hgroup,
+main,
+nav,
+section {
+  display: block;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+  background: #e9e9e9;
+  font-family: "Roboto", "Noto Sans TC", sans-serif;
+  color: #172730;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+  background: #e9e9e9;
+  font-family: "Roboto", "Noto Sans TC", sans-serif;
+  color: #172730;
+}
+.saying_block.Musk .saying_content {
+  background-color: rgba(183, 73, 73, 0.7);
+}
+.saying_block .saying_content {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+fieldset,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+  margin: 0;
+  padding: 0;
+}
+.saying_block .saying_content {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.saying_block .saying_content .text_box h2 {
+  font-weight: normal;
+  font-size: 42px;
+  line-height: 50px;
+  font-family: "Bitter", serif;
+  font-style: italic;
+  letter-spacing: 1px;
+}
+h2 {
+  display: block;
+  font-size: 1.5em;
+  -webkit-margin-before: 0.83em;
+  -webkit-margin-after: 0.83em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  font-weight: bold;
+}
+.saying_block .saying_content .text_box h3 {
+  font-size: 15px;
+  letter-spacing: 15px;
+  font-weight: normal;
+  padding: 30px 0 20px 0;
+}
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+fieldset,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+  margin: 0;
+  padding: 0;
+}
+h3 {
+  display: block;
+  font-size: 1.17em;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  font-weight: bold;
+}
+.saying_block .saying_content .text_box p {
+  font-size: 12px;
+  letter-spacing: 2px;
+  padding: 20px 0 20px 0;
+  opacity: 0.7;
+}
+p {
+  display: block;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+}
+.saying_block.buffett {
+  background-image: url(http://www.lan-chun-chih.com/images/man_buffett.jpg);
+}
+.saying_block.buffett .saying_content {
+  background-color: rgba(29, 69, 106, 0.7);
+}
+.saying_block.bezos {
+  background-image: url(http://www.lan-chun-chih.com/images/man_bezos.jpg);
+}
+.saying_block.bezos .saying_content {
+  /* background-color: rgba(223, 168, 0, 0.7); */
+  background-color: rgba(16, 36, 55, 0.7);
+}
+.saying_block.sandberg {
+  background-image: url(http://www.lan-chun-chih.com/images/man_sandberg.jpg);
+}
+.saying_block.sandberg .saying_content {
+  background-color: rgba(210, 24, 76, 0.7);
+}
+.saying_block.Jobs {
+  background-image: url(http://www.lan-chun-chih.com/images/man_jobs.jpg);
+}
+.saying_block.Jobs .saying_content {
+  background-color: rgba(0, 159, 153, 0.7);
+}
